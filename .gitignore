@@ -1,4 +1,4 @@
 # Ignore Mac system files
 **/.DS_Store
 ~$1015 proj notes.docx
-.ipynb_checkpoints/*
+.ipynb_checkpoints/
