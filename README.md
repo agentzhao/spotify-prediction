@@ -2,7 +2,7 @@
 
 ## About
 
-![Spotify](./images/spotify.png)
+<img src="https://raw.githubusercontent.com/agentzhao/spotify/main/images/spotify.png" width="200" />
 Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. As of 2022, it has 82 million songs on its platform, an estimated 8 million artists and creators on its platform and 406 million active monthly users. Ever wondered how much money your favourite artists and singers are earning from spotify for their songs? $0.0033 to $0.0054. That means it would take roughly 250 streams for an artist to earn $1.
 Popularity of a song becomes a huge factor that has a direct correlation with the number of streams and an artist’s revenue.
 
@@ -14,14 +14,15 @@ With that, here are some of the questions we seek to answer:
 ## Takeaways
 
 ![Random Forest](./images/randomforest.png)
+
 Our data driven insight from the small dataset of 41099 songs is that **Instrumentalness** is the most important factor in predicting the popularity of a song. More specifically, a lower instrumentalness (more vocals) is more popular with listeners.
 
 However, our model is not perfect and there are many other factors that were not accounted for. For example, song themes, popularity of the music artist, and the shift in trends of music over the decades. Despite these limitations, our model provides a good starting point for exploring how different song traits impact the popularity of a song.
 
 ## Contributors
 
-- @agentzhao - Data Cleaning, Analysis and Visualization
-- @bohyanggg - Machine Learning and AI
+- [@agentzhao](https://github.com/agentzhao/) - Data Cleaning, Analysis and Visualization
+- [@bohyanggg](https://github.com/bohyanggg/) - Machine Learning and AI
 
 ## Tools
 
