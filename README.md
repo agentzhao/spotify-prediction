@@ -15,7 +15,7 @@ With that, here are some of the questions we seek to answer:
 
 ![Random Forest](./images/randomforest.png)
 
-Our data driven insight from the small dataset of 40,000 songs is that **Instrumentalness** is the most important factor in predicting the popularity of a song. More specifically, a lower instrumentalness (more vocals) is more popular with listeners.
+Through the use of the decision tree and random forest classifier, our data driven insight from the small dataset of 40,000 songs is that **Instrumentalness** is the most important factor in predicting the popularity of a song. More specifically, a lower instrumentalness (more vocals) is more popular with listeners.
 
 However, our model is not perfect and there are many other factors that were not accounted for. For example, song themes, popularity of the music artist, and the shift in trends of music over the decades. Despite these limitations, our model provides a good starting point for exploring how different song traits impact the popularity of a song.
 
@@ -38,9 +38,10 @@ However, our model is not perfect and there are many other factors that were not
 
 ## Machine Learning
 
-- Decision Tree (Single and Multi-Variate)
-- Random Forest Classifier
-- Support Vector Clustering
+- Decision Tree (Uni and Multi-Variate) - Highest Univariate Decision tree with 68.9% accuracy
+- Random Forest Classifier - Best Model, with a 76.2% accuracy
+- Support Vector Clustering - 71.2% accuracy
+- -KNeighborsClassifier - 70.6% accuracy
 
 ## References
 
